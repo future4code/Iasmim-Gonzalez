@@ -1,0 +1,69 @@
+body {
+    background-color:#d8d8d8;
+    margin: 0;
+    
+}
+.cabeçalho{
+    background-color:#cd4d00;
+    color: white;
+    margin:0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    letter-spacing: 2px;
+
+}
+.corpo{
+    background-color:#595f96;
+    text-align: center;
+    margin: 0;
+    padding-top: 400px;
+    padding-bottom: 10px;
+}
+.corpo h1{
+    color: white;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+}
+.corpo h2 {
+    color: white;
+    text-align: right;
+    padding-top: 400px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-size: 40px;
+   
+}
+.corpo img{
+    width:950px;
+    max-width: 90%;
+    height: auto;
+
+}
+input[type=submit] {
+    color: #fff;
+    background-color: #cd4d00;
+    width: 6%;
+    padding: 11px 0px;
+    margin: 0;
+    border: none;
+    cursor: pointer;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+input[type=text]{
+    width: 30%;
+    margin-right: -5px;  
+    padding: 10px 0px;
+    border: 1px solid #757575;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.rodape{
+    text-align: center;
+
+    padding-top: 70px;
+}
